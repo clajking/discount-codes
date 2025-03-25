@@ -1,0 +1,15 @@
+json
+
+{
+  "discount_codes": {
+    "MIL10": { "type": "percent", "value": 10, "max_uses": 5 },
+    "SPRING20": { "type": "fixed", "value": 20, "max_uses": 1 }
+  },
+  "referral_codes": {
+    "REFER15": { "type": "fixed", "value": 15, "max_uses": 2 }
+  }
+}
+
+
+
+
